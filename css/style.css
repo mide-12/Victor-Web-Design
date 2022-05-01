@@ -75,7 +75,9 @@ header a:hover {
     background: url(../images/showcase.jpg) no-repeat 0 -300px;
     color: #ffffff;
     margin: auto;
-   text-align: center;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 #showcase h2 {
